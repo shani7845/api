@@ -1,44 +1,44 @@
 [
   {
     "id": "1",
-    "title": "Big Buck Bunny",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Big_Buck_Bunny_thumbnail_vlc.png/1200px-Big_Buck_Bunny_thumbnail_vlc.png",
-    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself."
+    "title": "Nature Documentary",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+    "description": "Beautiful cinematic nature footage with mountains and rivers."
   },
   {
     "id": "2",
-    "title": "Elephant Dream",
-    "thumbnailUrl": "https://i.ytimg.com/vi_webp/gWw23EYM9VM/maxresdefault.webp",
-    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "description": "The first Blender Open Movie from 2006."
+    "title": "City Night Drive",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4",
+    "description": "Driving through a futuristic neon-lit city at night."
   },
   {
     "id": "3",
-    "title": "For Bigger Blazes",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Dr9C2oswZfA/maxresdefault.jpg",
-    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "description": "Sample video for bigger blazes."
+    "title": "Ocean Waves",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4",
+    "description": "Relaxing ocean waves hitting the shore during sunset."
   },
   {
     "id": "4",
-    "title": "For Bigger Escape",
-    "thumbnailUrl": "https://img.jakpost.net/c/2019/09/03/2019_09_03_78912_1567484272._large.jpg",
-    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-    "description": "Chromecast sample promotional video."
+    "title": "Forest Adventure",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-20s.mp4",
+    "description": "Exploring deep forests with cinematic drone shots."
   },
   {
     "id": "5",
-    "title": "Sintel Trailer",
-    "thumbnailUrl": "https://download.blender.org/durian/trailer/sintel_trailer-480p.jpg",
-    "videoUrl": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
-    "description": "Trailer of the open movie Sintel by Blender Foundation."
+    "title": "Cyberpunk Future",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-30s.mp4",
+    "description": "A futuristic cyberpunk world with glowing skyscrapers."
   },
   {
     "id": "6",
-    "title": "Tears of Steel",
-    "thumbnailUrl": "https://mango.blender.org/wp-content/uploads/2013/05/01_thom_celia_bridge.jpg",
-    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-    "description": "Science fiction short film by Blender Institute."
+    "title": "Luxury Travel",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-5mb.mp4",
+    "description": "Luxury resorts, beaches and travel lifestyle footage."
   }
 ]
