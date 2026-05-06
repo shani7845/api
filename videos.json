@@ -1,44 +1,37 @@
 [
   {
     "id": "1",
-    "title": "Big Buck Bunny",
-    "thumbnailUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself."
+    "title": "Flower",
+    "thumbnailUrl": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217",
+    "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "description": "Beautiful flower cinematic sample video."
   },
   {
     "id": "2",
-    "title": "Elephant Dream",
-    "thumbnailUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
-    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "description": "The first Blender Open Movie from 2006."
+    "title": "Rabbit Run",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=1200",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "Big Buck Bunny sample video."
   },
   {
     "id": "3",
-    "title": "For Bigger Blazes",
-    "thumbnailUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
-    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "description": "Action packed demo video with cinematic scenes."
+    "title": "Ocean View",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+    "description": "Relaxing ocean cinematic footage."
   },
   {
     "id": "4",
-    "title": "For Bigger Escape",
-    "thumbnailUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
-    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-    "description": "Adventure escape cinematic sample footage."
+    "title": "Mountain Adventure",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4",
+    "description": "Mountain adventure cinematic footage."
   },
   {
     "id": "5",
-    "title": "Sintel",
-    "thumbnailUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
-    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-    "description": "Fantasy animated short film from Blender Foundation."
-  },
-  {
-    "id": "6",
-    "title": "Tears of Steel",
-    "thumbnailUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
-    "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-    "description": "Science fiction short film with robots and action."
+    "title": "City Lights",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1200",
+    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4",
+    "description": "Night city cinematic sample footage."
   }
 ]
